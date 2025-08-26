@@ -3,6 +3,7 @@
 #Load i.e., save it in a mongodb database.
 
 #This is will be done by Data Engineering teams in companies
+#Below is basic ETL Pipeline
 
 import os
 import sys
